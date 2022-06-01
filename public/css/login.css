@@ -1,0 +1,9 @@
+.card-header{
+    margin: 0 auto;
+}
+
+.register{
+    display: inline-block;
+    text-decoration: none;
+    color:grey;
+}

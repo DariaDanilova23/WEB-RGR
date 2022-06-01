@@ -1,0 +1,20 @@
+.master-section{
+    width: 100%;
+}
+table{
+    color:white;
+    width: 70%;
+    margin:2% auto;
+    border-spacing:0;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+.right {
+    padding-left: 5px;
+    border-left: 2px solid white;
+}
+h2{
+    text-align: right;
+    margin-right: 5%;
+}

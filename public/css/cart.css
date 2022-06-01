@@ -1,0 +1,31 @@
+
+.text-green-800{
+    text-align: center;
+    font-size: 10vmin;
+    margin-top:20vh;
+}
+.w-20{
+    height: 40vmin;
+    width: 40vmin;
+    object-fit: cover;
+}
+.my-8 {
+    color: white;
+}
+.remove{
+    float: right;
+}
+.w-full{
+    margin: 0 auto;
+    color: white;
+    width: 90%;
+}
+.bg-red-600,.bg-red-300{
+    background: transparent;
+    border: 0;
+    cursor: pointer;
+    color:white;
+}
+.bg-red-300 img{
+    width: 5vmin;
+}
